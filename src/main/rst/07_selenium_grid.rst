@@ -162,7 +162,7 @@ To run the hub using the default options simply specify -role hub to the Selenim
 
 .. code-block:: bash
 
-	java -jar selenium-server-standalone-2.44.0.jar -hub
+	java -jar selenium-server-standalone-2.44.0.jar -role hub
 
 You should see the following logging output.
 
